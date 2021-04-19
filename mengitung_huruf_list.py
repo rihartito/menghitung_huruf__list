@@ -1,8 +1,3 @@
-#Rihar del tito-71200648
-#Universitas Kristen Duta Wacana
-#https://www.w3resource.com/python-exercises/list/
-#list
-
 
 '''
 buatlah sebuah fungsi untuk menghitung banyak kata/huruf pada suatu kalimat.
